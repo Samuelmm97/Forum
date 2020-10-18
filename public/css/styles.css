@@ -31,6 +31,16 @@ body {
   background-color: #FFF;
     color: #2F3136 !important;
 }
+input {
+  color: black;
+}
+textarea {
+  color: black;
+}
+
+.compose-link {
+  margin-top: 20px;
+}
 
 .footer-padding {
 	padding-bottom: 60px;
