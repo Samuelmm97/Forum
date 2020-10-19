@@ -8,6 +8,11 @@ body {
   color: #FFF;
 }
 
+.home {
+  margin-top: 1em;
+}
+
+
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -27,8 +32,8 @@ body {
 
 .navbar {
     background-color: #4F545C;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 1em;
+    padding-bottom: 1em;
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
@@ -51,8 +56,12 @@ textarea {
   color: black;
 }
 
+.btn {
+  margin-bottom: 3em;
+}
+
 .compose-link {
-  margin-top: 20px;
+  margin-top: 2em;
 }
 
 .footer-padding {
