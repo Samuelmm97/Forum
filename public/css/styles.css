@@ -12,6 +12,19 @@ body {
     padding-top: 70px;
     padding-bottom: 70px;
 }
+
+.container h1 {
+  font-size: 3em;
+}
+
+.container p {
+  font-size: 1 em;
+}
+
+.navbar-brand {
+  font-size: 1.2em;
+}
+
 .navbar {
     background-color: #4F545C;
     padding-top: 15px;
@@ -19,7 +32,7 @@ body {
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 12px;
+    font-size: 1em;
     letter-spacing: 5px;
 }
 .navbar-nav a {
@@ -56,7 +69,7 @@ textarea {
 }
 
 .footer p {
-	margin-top: 25px;
-	font-size: 12px;
+	margin-top: 1.5em;
+	font-size: 1em;
   color: #FFF;
 }
