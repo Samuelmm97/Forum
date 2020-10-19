@@ -8,8 +8,15 @@ body {
   color: #FFF;
 }
 
-.home {
-  margin-top: 1em;
+.post {
+  border-style: solid;
+  border-color: #4F545C;
+  margin-bottom: 2em;
+}
+
+.home-message {
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
 
@@ -18,12 +25,16 @@ body {
     padding-bottom: 70px;
 }
 
-.container h1 {
+.post h1 {
   font-size: 3em;
+  margin-left: 0.6em;
 }
 
-.container p {
-  font-size: 1 em;
+.post p {
+  margin-right: 2em;
+  margin-left: 2em;
+  font-size: 1em;
+  margin-bottom: 2em;
 }
 
 .navbar-brand {
@@ -61,7 +72,7 @@ textarea {
 }
 
 .compose-link {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 .footer-padding {
